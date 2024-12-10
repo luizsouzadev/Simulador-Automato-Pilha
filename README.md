@@ -5,7 +5,7 @@ Este projeto é um simulador de Autômato a Pilha desenvolvido em Python utiliza
 
 ## Funcionalidades
 
-### 1. **Configuração do AFD e AFN**
+### 1. **Configuração do Autômato a Pilha**
    - O usuário pode definir os **estados**, **alfabetos**, **estado inicial**, **estados de aceitação** e as **transições** do Autômato.
    - O Autômato a Pilha é configurado dinamicamente com base nas entradas fornecidas pelo usuário.
 
